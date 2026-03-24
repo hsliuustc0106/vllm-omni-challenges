@@ -42,9 +42,9 @@ State the central technical difficulty and the intended research or engineering 
 
 ### Hardware
 
-- fixed hardware: `8 x Ascend 910B 64G`
+- fixed hardware
 - card count may not be changed for official evaluation
-- memory per card: `64 GB`
+- memory per card
 - host machine assumptions
 
 ### vllm-omni Version

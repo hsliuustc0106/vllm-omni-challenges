@@ -89,7 +89,7 @@ Validation should cover both model behavior and workload behavior.
 
 ## Constraints
 
-The challenge should be run under explicitly declared constraints. Unless a competition organizer overrides them, use the following categories as mandatory requirements:
+Feel free to work on this challenging problem on any hardware/software version/time since `vllm-omni` supports various hardware. If you want to participate in NPU track,the challenge should be run under explicitly declared constraints. Unless a competition organizer overrides them, use the following categories as mandatory requirements:
 
 ### Hardware
 
@@ -111,7 +111,8 @@ The challenge should be run under explicitly declared constraints. Unless a comp
 - set the submission deadline to `2026-03-31 23:59:59 Asia/Shanghai`
 - freeze the baseline version and benchmark rules for the full open period, or announce changes explicitly
 
-For this repository draft, the submission deadline is fixed, while the start date and final review window should still be filled in by the organizer when the challenge is officially released.
+For this repository draft, the submission deadline is fixed, while the start date and final review window should still be filled in by the organizer when the challenge is officially released. 
+
 
 ## Technical Targets
 
