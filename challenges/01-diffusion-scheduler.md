@@ -89,7 +89,9 @@ Validation should cover both model behavior and workload behavior.
 
 ## Constraints
 
-Feel free to work on this challenging problem on any hardware/software version/time since `vllm-omni` supports various hardware. If you want to participate in NPU track,the challenge should be run under explicitly declared constraints. Unless a competition organizer overrides them, use the following categories as mandatory requirements:
+Feel free to work on this challenging problem on any hardware/software version/time since `vllm-omni` supports various hardware. 
+
+If you want to participate in [NPU track](https://www.chaspark.com/#/questions/1231646125393903616?sub=1231652204887711744&lang=zh) ,the challenge should be run under explicitly declared constraints. Unless a competition organizer overrides them, use the following categories as mandatory requirements:
 
 ### Hardware
 
